@@ -427,3 +427,6 @@ Building digital experiences with technology and creativity 🚀
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer">
 
 </p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/jafeerabdullah/jafeerabdullah/output/github-contribution-grid-snake-dark.svg">
+</p>
